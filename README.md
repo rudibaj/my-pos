@@ -1,13 +1,12 @@
 <p align="center">
-   <a href="#" target="_blank">
-      <img src="https://github.com/microsoft/vscode/assets/47495003/be3b86e0-4d5e-4736-bf89-4267fb4d6710" alt="logo" width="60px" height="auto">
+   <a href="https://themeselection.com/item/sneat-bootstrap-html-admin-template/" target="_blank">
+      <img src="https://cdn.themeselection.com/ts-assets/sneat/logo/logo.png" alt="sneat-logo" width="60px" height="auto">
    </a>
 </p>
 
 <h1 align="center">
-   <a href="#" target="_blank" align="center">
-      Laravel 12 Bootstrap Starter Kit
-   </a>
+   <a href="https://themeselection.com/item/sneat-free-bootstrap-html-laravel-admin-template/" target="_blank" align="center">
+      Sneat Design Bootstrap Laravel Starter Kit
 </h1>
 
 <p align="center">
@@ -15,20 +14,26 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/laravel-12-bootstrap-starter-kit/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/yourusername/laravel-12-bootstrap-starter-kit" alt="license">
+  <a href="https://github.com/themeselection/sneat-bootstrap-laravel-livewire-starter-kit/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/themeselection/sneat-bootstrap-laravel-livewire-starter-kit" alt="license">
   </a>
-  <a href="https://github.com/yourusername/laravel-12-bootstrap-starter-kit/releases/">
-    <img src="https://img.shields.io/github/release/yourusername/laravel-12-bootstrap-starter-kit.svg" alt="GitHub release">
+  <a href="https://github.com/themeselection/sneat-bootstrap-laravel-livewire-starter-kit/releases/">
+    <img src="https://img.shields.io/github/release/themeselection/sneat-bootstrap-laravel-livewire-starter-kit.svg" alt="GitHub release">
   </a>
-  <a href="https://github.com/yourusername/laravel-12-bootstrap-starter-kit/issues">
-    <img src="https://img.shields.io/github/issues/yourusername/laravel-12-bootstrap-starter-kit.svg" alt="GitHub issues">
+  <a href="https://github.com/themeselection/sneat-bootstrap-laravel-livewire-starter-kit/issues">
+    <img src="https://img.shields.io/github/issues/themeselection/sneat-bootstrap-laravel-livewire-starter-kit.svg" alt="GitHub issues">
+  </a>
+  <a href="https://github.com/themeselection/sneat-bootstrap-laravel-livewire-starter-kit/issues">
+    <img src="https://img.shields.io/github/issues-closed/themeselection/sneat-bootstrap-laravel-livewire-starter-kit.svg" alt="GitHub closed issues">
+  </a>
+  <a href="https://twitter.com/Theme_Selection" target="_blank">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Theme_Selection">
   </a>
 </p>
 
 <p align="center">
   <kbd>
-    <img src="https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/laravel-12.jpg" alt="Laravel 12 Bootstrap Starter Kit Preview">
+    <img src="https://github.com/user-attachments/assets/8befef61-cad6-4f18-a6b5-d4ce621b8eb4" alt="Laravel 12 Bootstrap Starter Kit Preview">
   </kbd>
 </p>
 
@@ -38,7 +43,7 @@ The **Laravel 12 Bootstrap Starter Kit** is a clean and minimal starting point f
 
 This kit is integrated with **Bootstrap 5**, providing a responsive, mobile-first UI out-of-the-box. Whether you're building a simple CRUD, admin panel, or a complex web app, this starter kit speeds up your workflow and keeps your code clean and maintainable.
 
-🔗 **[Live Demo](#)**
+🔗 **[Live Demo](https://demos.themeselection.com/sneat-bootstrap-html-laravel-admin-template-free/demo/)**
 
 ---
 
@@ -48,8 +53,8 @@ Getting started is super simple! Follow the steps below:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/laravel-12-bootstrap-starter-kit.git
-   cd laravel-12-bootstrap-starter-kit
+   git clone https://github.com/themeselection/sneat-bootstrap-laravel-livewire-starter-kit.git
+   cd sneat-bootstrap-laravel-livewire-starter-kit
    ```
 
 2. **Install Composer Dependencies**
@@ -146,12 +151,13 @@ yarn build
   - Sidebar
   - Footer
 - **Profile Settings Page**
+- [Read more components](https://demos.themeselection.com/sneat-bootstrap-html-laravel-admin-template-free/demo/)
 
 ---
 
 ## 📚 Documentation
 
-For detailed documentation, check the **[Wiki](#)** or refer to the **[Documentation Folder](docs/)** in this repo.
+For detailed documentation, check the **[Wiki](https://github.com/themeselection/sneat-bootstrap-laravel-livewire-starter-kit/wiki)** or refer to the **[Documentation]([docs/](https://demos.themeselection.com/sneat-bootstrap-html-admin-template/documentation/laravel-introduction.html))** in this repo.
 
 ---
 
@@ -193,10 +199,10 @@ Check out the [CHANGELOG](CHANGELOG.md) for detailed release notes.
 
 ## 🛠️ Support
 
-For free community support, open an issue on [GitHub Issues](https://github.com/yourusername/laravel-12-bootstrap-starter-kit/issues).
+For free community support, open an issue on [GitHub Issues](https://github.com/yourusername/sneat-bootstrap-laravel-livewire-starter-kit/issues).
 
 For priority support or custom development:  
-📧 your.email@example.com
+📧 [Support](https://themeselection.com/support/)
 
 ---
 
@@ -208,5 +214,5 @@ This project is open-sourced software licensed under the [MIT license](LICENSE).
 
 ## 🔥 Looking for More?
 
-Check out other awesome starter kits and templates at [YourWebsite](#).
+Check out other awesome starter kits and templates at [Website](https://themeselection.com/).
 
