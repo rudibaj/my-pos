@@ -25,7 +25,7 @@
       <li class="nav-item lh-1 me-4">
         <a
           class="github-button"
-          href="https://github.com/smitbhalodiya/update-laravel-starter_kit"
+          href="https://github.com/themeselection/sneat-bootstrap-laravel-livewire-starter-kit"
           data-icon="octicon-star"
           data-size="large"
           data-show-count="true"
