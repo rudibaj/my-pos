@@ -1,16 +1,17 @@
 <p align="center">
-   <a href="https://themeselection.com/item/sneat-bootstrap-html-admin-template/" target="_blank">
+   <a href="https://themeselection.com/item/sneat-bootstrap-starter-kit-free-laravel-livewire/" target="_blank">
       <img src="https://cdn.themeselection.com/ts-assets/sneat/logo/logo.png" alt="sneat-logo" width="60px" height="auto">
    </a>
 </p>
 
 <h1 align="center">
-   <a href="https://themeselection.com/item/sneat-free-bootstrap-html-laravel-admin-template/" target="_blank" align="center">
+   <a href="https://themeselection.com/item/sneat-bootstrap-starter-kit-free-laravel-livewire/" target="_blank" align="center">
       Sneat Design Bootstrap Laravel Starter Kit
+   </a>
 </h1>
 
 <p align="center">
-   🚀 A powerful, clean and minimal Laravel 12 Starter Kit integrated with Bootstrap 5, ready to kickstart your next big project!
+   🚀 A powerful, clean, and minimal Laravel 12 Starter Kit integrated with Bootstrap 5, ready to kickstart your next big project!
 </p>
 
 <p align="center">
@@ -39,7 +40,7 @@
 
 ## 🚀 Introduction
 
-The **Laravel 12 Bootstrap Starter Kit** is a clean and minimal starting point for your Laravel applications. It's designed to give developers a robust structure while saving hours of initial setup time.
+The **Laravel 12 Bootstrap Starter Kit** is a clean and minimal starting point for your Laravel applications. It’s designed to give developers a robust structure while saving hours of initial setup time.
 
 This kit is integrated with **Bootstrap 5**, providing a responsive, mobile-first UI out-of-the-box. Whether you're building a simple CRUD, admin panel, or a complex web app, this starter kit speeds up your workflow and keeps your code clean and maintainable.
 
@@ -103,12 +104,13 @@ Getting started is super simple! Follow the steps below:
 
 - Laravel 12 (Latest Version)
 - Bootstrap 5 (Responsive & Mobile-first)
-- Authentication
+- Authentication (Login, Register, Forgot Password)
 - Modular Code Structure (Easy to scale)
 - Clean & Minimal UI
 - Reusable Blade Components
 - SCSS Workflow (Ready to customize)
 - RESTful Route Structure
+- Built-in Profiles and Settings pages
 
 ---
 
@@ -151,13 +153,13 @@ yarn build
   - Sidebar
   - Footer
 - **Profile Settings Page**
-- [Read more components](https://demos.themeselection.com/sneat-bootstrap-html-laravel-admin-template-free/demo/)
+- [Explore additional components](https://demos.themeselection.com/sneat-bootstrap-html-laravel-admin-template-free/demo/)
 
 ---
 
 ## 📚 Documentation
 
-For detailed documentation, check the **[Wiki](https://github.com/themeselection/sneat-bootstrap-laravel-livewire-starter-kit/wiki)** or refer to the **[Documentation]([docs/](https://demos.themeselection.com/sneat-bootstrap-html-admin-template/documentation/laravel-introduction.html))** in this repo.
+For detailed documentation, check the **[Wiki](https://github.com/themeselection/sneat-bootstrap-laravel-livewire-starter-kit/wiki)** or refer to the **[Documentation](https://demos.themeselection.com/sneat-bootstrap-html-admin-template/documentation/laravel-introduction.html)** in this repo.
 
 ---
 
@@ -199,7 +201,7 @@ Check out the [CHANGELOG](CHANGELOG.md) for detailed release notes.
 
 ## 🛠️ Support
 
-For free community support, open an issue on [GitHub Issues](https://github.com/yourusername/sneat-bootstrap-laravel-livewire-starter-kit/issues).
+For free community support, open an issue on [GitHub Issues](https://github.com/themeselection/sneat-bootstrap-laravel-livewire-starter-kit/issues).
 
 For priority support or custom development:  
 📧 [Support](https://themeselection.com/support/)
@@ -215,4 +217,3 @@ This project is open-sourced software licensed under the [MIT license](LICENSE).
 ## 🔥 Looking for More?
 
 Check out other awesome starter kits and templates at [Website](https://themeselection.com/).
-
