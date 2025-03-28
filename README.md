@@ -1,11 +1,11 @@
 <p align="center">
-   <a href="https://themeselection.com/item/sneat-bootstrap-starter-kit-free-laravel-livewire/" target="_blank">
+   <a href="https://themeselection.com/item/sneat-free-bootstrap-laravel-livewire-starter-kit/" target="_blank">
       <img src="https://cdn.themeselection.com/ts-assets/sneat/logo/logo.png" alt="sneat-logo" width="60px" height="auto">
    </a>
 </p>
 
 <h1 align="center">
-   <a href="https://themeselection.com/item/sneat-bootstrap-starter-kit-free-laravel-livewire/" target="_blank" align="center">
+   <a href="https://themeselection.com/item/sneat-free-bootstrap-laravel-livewire-starter-kit/" target="_blank" align="center">
       Sneat Design Bootstrap Laravel Starter Kit
    </a>
 </h1>
@@ -34,7 +34,7 @@
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/user-attachments/assets/8befef61-cad6-4f18-a6b5-d4ce621b8eb4" alt="Laravel 12 Bootstrap Starter Kit Preview">
+    <img src="https://github.com/user-attachments/assets/a4f2c59c-92a0-4624-a0f0-d53ee0acf7d9" alt="Laravel 12 Bootstrap Starter Kit Preview">
   </kbd>
 </p>
 
